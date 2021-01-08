@@ -1,5 +1,5 @@
 # Simple-Discord-ChatBot 🤖🗣
-**A simple Discord Chat Bot made in javascript**
+
 
 ## Requirements:
 ```

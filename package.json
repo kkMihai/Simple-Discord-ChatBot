@@ -1,0 +1,18 @@
+{
+  "name": "Simple-Discord-ChatBot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Mihai_Cit",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "nodejs": "12.16.1"
+  },
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "alexa-bot-api": "^0.1.3",
+    "discord.js": "^12.5.1"
+  },
+  "license": "MIT"
+}

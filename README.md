@@ -13,3 +13,5 @@
 - Copy the token and put it in the main file `(index.js)` at `client.token('your bot token')`
 - `npm install`
 - `node index.js`
+
+## Usage:

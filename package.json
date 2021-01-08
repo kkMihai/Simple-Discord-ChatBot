@@ -7,11 +7,11 @@
     "start": "node index.js"
   },
   "engines": {
-    "nodejs": "12.16.1"
+    "nodejs": "12.x"
   },
   "dependencies": {
     "@discordjs/opus": "^0.3.3",
-    "alexa-bot-api": "^0.1.3",
+    "alexa-bot-api": "^0.1.5",
     "discord.js": "^12.5.1"
   },
   "license": "MIT"

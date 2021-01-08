@@ -10,6 +10,6 @@
 ## Setup:
 - Create a new application at https://discordapp.com/developers/applications
 - Turn it into a bot
-- Copy the token and put it in the main file `(index.js)` at `client.token('your bot token')
+- Copy the token and put it in the main file `(index.js)` at `client.token('your bot token')`
 - `npm install`
 - `node index.js`

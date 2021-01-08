@@ -7,7 +7,7 @@
     "start": "node index.js"
   },
   "engines": {
-    "nodejs": "12.x"
+    "node": "12.x"
   },
   "dependencies": {
     "alexa-bot-api": "^0.1.5",
